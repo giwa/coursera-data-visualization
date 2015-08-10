@@ -1,0 +1,651 @@
+{
+    "links": [
+        {
+            "value": 5,
+            "source": 13,
+            "target": 38
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 38
+        },
+        {
+            "value": 5,
+            "source": 13,
+            "target": 39
+        },
+        {
+            "value": 5,
+            "source": 13,
+            "target": 40
+        },
+        {
+            "value": 5,
+            "source": 13,
+            "target": 41
+        },
+        {
+            "value": 2,
+            "source": 21,
+            "target": 41
+        },
+        {
+            "value": 2,
+            "source": 36,
+            "target": 41
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 41
+        },
+        {
+            "value": 2,
+            "source": 2,
+            "target": 41
+        },
+        {
+            "value": 5,
+            "source": 13,
+            "target": 42
+        },
+        {
+            "value": 2,
+            "source": 37,
+            "target": 42
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 42
+        },
+        {
+            "value": 5,
+            "source": 1,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 24,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 13,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 29,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 34,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 25,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 12,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 37,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 15,
+            "target": 43
+        },
+        {
+            "value": 2,
+            "source": 3,
+            "target": 43
+        },
+        {
+            "value": 5,
+            "source": 1,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 4,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 12,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 34,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 24,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 8,
+            "target": 44
+        },
+        {
+            "value": 2,
+            "source": 25,
+            "target": 44
+        },
+        {
+            "value": 5,
+            "source": 1,
+            "target": 45
+        },
+        {
+            "value": 2,
+            "source": 24,
+            "target": 45
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 45
+        },
+        {
+            "value": 5,
+            "source": 1,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 34,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 4,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 12,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 31,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 21,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 24,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 26,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 22,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 27,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 0,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 14,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 11,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 18,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 10,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 37,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 17,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 35,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 9,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 19,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 16,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 13,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 7,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 30,
+            "target": 46
+        },
+        {
+            "value": 2,
+            "source": 32,
+            "target": 46
+        },
+        {
+            "value": 5,
+            "source": 1,
+            "target": 47
+        },
+        {
+            "value": 2,
+            "source": 24,
+            "target": 47
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 47
+        },
+        {
+            "value": 2,
+            "source": 13,
+            "target": 47
+        },
+        {
+            "value": 2,
+            "source": 29,
+            "target": 47
+        },
+        {
+            "value": 5,
+            "source": 20,
+            "target": 48
+        },
+        {
+            "value": 2,
+            "source": 6,
+            "target": 48
+        },
+        {
+            "value": 2,
+            "source": 37,
+            "target": 48
+        },
+        {
+            "value": 5,
+            "source": 20,
+            "target": 49
+        },
+        {
+            "value": 5,
+            "source": 20,
+            "target": 50
+        },
+        {
+            "value": 5,
+            "source": 20,
+            "target": 51
+        },
+        {
+            "value": 2,
+            "source": 23,
+            "target": 51
+        },
+        {
+            "value": 2,
+            "source": 37,
+            "target": 51
+        },
+        {
+            "value": 2,
+            "source": 33,
+            "target": 51
+        },
+        {
+            "value": 2,
+            "source": 28,
+            "target": 51
+        },
+        {
+            "value": 5,
+            "source": 20,
+            "target": 52
+        }
+    ],
+    "nodes": [
+        {
+            "group": 0,
+            "value": 18,
+            "name": "NewLisp"
+        },
+        {
+            "group": 1,
+            "value": 18,
+            "name": "Scala"
+        },
+        {
+            "group": 2,
+            "value": 18,
+            "name": "CMake"
+        },
+        {
+            "group": 3,
+            "value": 18,
+            "name": "Thrift"
+        },
+        {
+            "group": 4,
+            "value": 18,
+            "name": "HTML"
+        },
+        {
+            "group": 5,
+            "value": 18,
+            "name": "C"
+        },
+        {
+            "group": 6,
+            "value": 18,
+            "name": "Protocol Buffer"
+        },
+        {
+            "group": 7,
+            "value": 18,
+            "name": "OCaml"
+        },
+        {
+            "group": 8,
+            "value": 18,
+            "name": "PLSQL"
+        },
+        {
+            "group": 9,
+            "value": 18,
+            "name": "Cycript"
+        },
+        {
+            "group": 10,
+            "value": 18,
+            "name": "SystemVerilog"
+        },
+        {
+            "group": 11,
+            "value": 18,
+            "name": "Mathematica"
+        },
+        {
+            "group": 12,
+            "value": 18,
+            "name": "CSS"
+        },
+        {
+            "group": 13,
+            "value": 18,
+            "name": "Python"
+        },
+        {
+            "group": 14,
+            "value": 18,
+            "name": "Smalltalk"
+        },
+        {
+            "group": 15,
+            "value": 18,
+            "name": "Groff"
+        },
+        {
+            "group": 16,
+            "value": 18,
+            "name": "GLSL"
+        },
+        {
+            "group": 17,
+            "value": 18,
+            "name": "GAP"
+        },
+        {
+            "group": 18,
+            "value": 18,
+            "name": "Slash"
+        },
+        {
+            "group": 19,
+            "value": 18,
+            "name": "PostScript"
+        },
+        {
+            "group": 20,
+            "value": 18,
+            "name": "Go"
+        },
+        {
+            "group": 21,
+            "value": 18,
+            "name": "Ruby"
+        },
+        {
+            "group": 22,
+            "value": 18,
+            "name": "Erlang"
+        },
+        {
+            "group": 23,
+            "value": 18,
+            "name": "Shell"
+        },
+        {
+            "group": 24,
+            "value": 18,
+            "name": "Java"
+        },
+        {
+            "group": 25,
+            "value": 18,
+            "name": "Batchfile"
+        },
+        {
+            "group": 26,
+            "value": 18,
+            "name": "Hy"
+        },
+        {
+            "group": 27,
+            "value": 18,
+            "name": "Perl6"
+        },
+        {
+            "group": 28,
+            "value": 18,
+            "name": "VimL"
+        },
+        {
+            "group": 29,
+            "value": 18,
+            "name": "R"
+        },
+        {
+            "group": 30,
+            "value": 18,
+            "name": "ActionScript"
+        },
+        {
+            "group": 31,
+            "value": 18,
+            "name": "Emacs Lisp"
+        },
+        {
+            "group": 32,
+            "value": 18,
+            "name": "Fancy"
+        },
+        {
+            "group": 33,
+            "value": 18,
+            "name": "Perl"
+        },
+        {
+            "group": 34,
+            "value": 18,
+            "name": "JavaScript"
+        },
+        {
+            "group": 35,
+            "value": 18,
+            "name": "Io"
+        },
+        {
+            "group": 36,
+            "value": 18,
+            "name": "C++"
+        },
+        {
+            "group": 37,
+            "value": 18,
+            "name": "Makefile"
+        },
+        {
+            "group": 13,
+            "value": 6,
+            "name": "hexahedria/biaxial-rnn-music-composition"
+        },
+        {
+            "group": 13,
+            "value": 6,
+            "name": "p-e-w/krill"
+        },
+        {
+            "group": 13,
+            "value": 6,
+            "name": "rushter/data-science-blogs"
+        },
+        {
+            "group": 13,
+            "value": 6,
+            "name": "duerrp/pyexperiment"
+        },
+        {
+            "group": 13,
+            "value": 6,
+            "name": "jkbrzt/httpie"
+        },
+        {
+            "group": 1,
+            "value": 6,
+            "name": "apache/spark"
+        },
+        {
+            "group": 1,
+            "value": 6,
+            "name": "takezoe/gitbucket"
+        },
+        {
+            "group": 1,
+            "value": 6,
+            "name": "ConsensusResearch/Scorex-Lagonaki"
+        },
+        {
+            "group": 1,
+            "value": 6,
+            "name": "ornicar/lila"
+        },
+        {
+            "group": 1,
+            "value": 6,
+            "name": "bigdatagenomics/adam"
+        },
+        {
+            "group": 20,
+            "value": 6,
+            "name": "chrislusf/seaweedfs"
+        },
+        {
+            "group": 20,
+            "value": 6,
+            "name": "emirozer/exposq"
+        },
+        {
+            "group": 20,
+            "value": 6,
+            "name": "akhenakh/statgo"
+        },
+        {
+            "group": 20,
+            "value": 6,
+            "name": "docker/docker"
+        },
+        {
+            "group": 20,
+            "value": 6,
+            "name": "avelino/awesome-go"
+        }
+    ]
+}
